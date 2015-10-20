@@ -1,0 +1,8 @@
+name: Stacks
+main: code.alexandeh.stacks.Stacks
+author: Alexandeh
+description: Simple mob stacking plugin
+version: 0.1-SNAPSHOT
+commands:
+   stacks:
+

@@ -1,0 +1,12 @@
+# Once a stack reaches this amount, a new stack will be spawned
+max-stack: 30
+
+# If a stacked mob's distance from it's original spawner is greater than the number below, a new stack will be spawned
+mob-distance: 10.0
+
+# This will be displayed above a stacked mob's head
+mob-displayname: '&6x{amount}'
+
+# If this is enabled, a stacked mob's name will be visible regardless of whether a player is looking directly at them
+mob-displayname-visible: true
+
